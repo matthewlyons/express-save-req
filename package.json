@@ -11,6 +11,10 @@
     "save",
     "json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewlyons/express-save-req.git"
+  },
   "author": "Matthew Lyons",
   "license": "MIT",
   "dependencies": {
